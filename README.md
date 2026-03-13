@@ -17,5 +17,5 @@ The portfolio serves as a central place to:
 ### Live Site
 https://okoisama.github.io/
 
-**Emeka Okoisama**
+**Emeka Okoisama**  
 Software Engineer | Full-Stack Development
